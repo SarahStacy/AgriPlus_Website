@@ -1,0 +1,63 @@
+body {
+  width: 100%;
+  height: 100%;
+}
+h1 {
+  color: chocolate font-size70px;
+  margin: px;
+  background-color: display;
+}
+.nav {
+  width: 100%;
+  background-color: black;
+  display: flex;
+}
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+.home {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  color: white;
+}
+.home > a {
+  justify-content: space-around;
+  text-decoration: none;
+}
+li {
+  display: inline-block;
+  padding: 20px;
+}
+.list{
+  display: flex;
+  flex: 25%;
+  flex-direction: row;
+  
+}
+#none {
+  position: relative;
+  z-index: 1;
+}
+.nusty {
+  background: url(images/image\ 1.png);
+}
+#none1 {
+  float: right;
+  z-index: 3;
+}
+. {any
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  color: white;
+}
+
+
+  
+  
+
+
